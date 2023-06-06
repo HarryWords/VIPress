@@ -19,7 +19,7 @@ VIPress is a member manage system
 -------------------------------------------------------------------------------
 一直在改变，从未停止过！<br/>
 QQ交流群号：
-[![加入QQ群](https://img.shields.io/badge/一群-231212174-blue.svg)](https://jq.qq.com/?_wv=1027&k=5zykX7V) [![加入QQ群](https://img.shields.io/badge/①群-736099901-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=RxbUKHrYecM55uIci58mvs5J1QYoqxZ0&authKey=DDh6+DXu5HrocGVNF9Keik4g4SdkdXRd3UGJN9zaWrv1KB0iVG3/bLIW3C4HiWxV&noverify=0#)
+[![加入QQ群](https://img.shields.io/badge/①群-736099901-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=RxbUKHrYecM55uIci58mvs5J1QYoqxZ0&authKey=DDh6+DXu5HrocGVNF9Keik4g4SdkdXRd3UGJN9zaWrv1KB0iVG3/bLIW3C4HiWxV&noverify=0#)
 
  特点 
 * 免费完整开源：基于MIT协议，源代码完全开源，无商业限制 系统永久完整开源；<br/>
